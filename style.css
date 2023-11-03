@@ -1,0 +1,43 @@
+.body{
+     background-image: url('./4524504-xiaopaopao711-night-sky-starry-night-sunset-cityscape-clouds-sun-building.jpg');
+    color: rgb(243, 241, 237);
+    font-size: xx-large;
+    border-radius: 10px 15px;
+    border-color: rgb(245, 236, 236);
+    background-color: rgb(239, 233, 245);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+   div{
+
+/* From https://css.glass */
+background: rgba(206, 202, 202, 0.24);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(2.6px);
+-webkit-backdrop-filter: blur(2.6px);
+border: 1px solid rgba(136, 128, 128, 0.2);
+   }
+   .button{
+    font-size: xx-large;
+    font-weight: 100;
+    background-color: rgb(32, 30, 28);
+}
+.placeholder{
+    font-size: xx-large;
+    font-weight: 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
